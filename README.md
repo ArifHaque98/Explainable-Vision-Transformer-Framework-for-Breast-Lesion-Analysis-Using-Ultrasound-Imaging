@@ -1,0 +1,2 @@
+# Explainable-Vision-Transformer-Framework-for-Breast-Lesion-Analysis-Using-Ultrasound-Imaging
+Breast cancer is the most commonly diagnosed cancer in women worldwide, and early detection through ultrasound imaging is one of the most accessible routes to better patient outcomes. Even so, automated analysis of breast ultrasound images is genuinely difficult: the images are noisy, lesion boundaries are often indistinct.
